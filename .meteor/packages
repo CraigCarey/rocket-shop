@@ -10,3 +10,5 @@ insecure
 twbs:bootstrap
 iron:router
 pcel:loading
+ian:accounts-ui-bootstrap-3
+accounts-password
