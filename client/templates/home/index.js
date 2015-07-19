@@ -1,5 +1,5 @@
 Template.homeIndex.helpers({
-  featured : function() {
+  featured : function(){
     return Products.featured();
   }
 });
